@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "No more google ads..",
+  "description": "This will remove stupid google ads..",
+  "version": "1.0",
+
+  "permissions": ["activeTab", "<all_urls>", "webNavigation"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
