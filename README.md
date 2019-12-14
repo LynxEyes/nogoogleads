@@ -7,3 +7,8 @@ Download the packed extension, install and be happy.
 Also.. use DuckDuckGo.
 
 Works on Chome, Opera and Vivaldi. Might work on others too, IDK.
+
+
+PS: remember to give it access
+
+![](https://image.prntscr.com/image/TSPMLiIpQVaMgd9cazccLA.png)
